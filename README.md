@@ -17,6 +17,6 @@ Olist (a Brazilian e-commerce platform) needed a high-level overview of their sa
 3. **Logistics is Killing the Vibe (and Scores!):** We analyzed over 96,000 orders. Packages delivered on time maintain a solid **4.29** average review score, while late deliveries plummet to **2.57**, driving customers away.
 
 ## 🖼️ The Dashboard
-![Olist Dashboard](dashboard.png)
+![Olist Dashboard](dashboard.png.png)
 
 *(You can download the .xlsx file and .sql queries from this repository to see the raw work).*
